@@ -1,135 +1,38 @@
-<!DOCTYPE html>
-<html lang="ko">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>우문식 포트폴리오</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-        }
-        .container {
-            width: 80%;
-            margin: auto;
-            overflow: hidden;
-        }
-        header {
-            background: #333;
-            color: #fff;
-            padding-top: 30px;
-            min-height: 70px;
-            border-bottom: #77aaff 3px solid;
-        }
-        header a {
-            color: #fff;
-            text-decoration: none;
-            text-transform: uppercase;
-            font-size: 16px;
-        }
-        header ul {
-            padding: 0;
-            list-style: none;
-        }
-        header li {
-            display: inline;
-            padding: 0 20px 0 20px;
-        }
-        header #branding {
-            float: left;
-        }
-        header #branding h1 {
-            margin: 0;
-        }
-        header nav {
-            float: right;
-            margin-top: 10px;
-        }
-        section#projects {
-            padding: 20px;
-            background: #fff;
-        }
-        section#projects h2, section#intro h2 {
-            text-align: center;
-            color: #333;
-        }
-        .project {
-            margin: 20px 0;
-            padding: 20px;
-            background: #f4f4f4;
-            border: #ddd 1px solid;
-        }
-        .project h3 {
-            margin: 0;
-            padding-bottom: 10px;
-        }
-    </style>
-</head>
-<body>
-    <header>
-        <div class="container">
-            <div id="branding">
-                <h1>우문식 포트폴리오</h1>
-            </div>
-            <nav>
-                <ul>
-                    <li><a href="#intro">Intro</a></li>
-                    <li><a href="#projects">Projects</a></li>
-                </ul>
-            </nav>
-        </div>
-    </header>
+# 우문식(Moonsik Woo) - 포트폴리오
 
-    <section id="intro">
-        <div class="container">
-            <h2>Intro</h2>
-            <p>안녕하세요. 신입 자바 개발자 우문식입니다. Java 기반 백엔드 개발을 하고 있습니다.</p>
-        </div>
-    </section>
-
-    <section id="projects">
-        <div class="container">
-            <h2>Projects</h2>
-
-            <div class="project">
-                <h3>Muse</h3>
-                <p>악기 후기 게시판 (엘리트트랙 - 개인프로젝트)</p>
-                <p>개발기간: 2024.04.22 - 2024.05.03</p>
-                <p>핵심 역할: 팀장, TSP 알고리즘을 활용한 여행추천 알고리즘 작성, React를 사용한 SPA 개발</p>
-                <p>Language: Java17</p>
-                <p>Skill: Spring Boot, MySQL, Thymeleaf, RestAPI, CSS</p>
-                <p><a href="https://github.com/moolmeat/project_1" target="_blank">[Backend & Frontend]</a></p>
-            </div>
-
-            <div class="project">
-                <h3>BookPanda</h3>
-                <p>도서 쇼핑몰 (엘리스트랙 - 4조 팀프로젝트)</p>
-                <p>개발기간: 2024.05.27 - 2024.06.21</p>
-                <p>핵심 역할: 발표, JWT토큰, auth기능, GoogleSMTP 메일 인증, GCP 배포</p>
-                <p>Language: Java17, JavaScript</p>
-                <p>Skill: Spring Boot, Spring Security, MySQL, Redis, React, RestAPI, CSS, GCP, NginX, Docker</p>
-                <p><a href="https://github.com/moolmeat/project_2_back" target="_blank">[Backend]</a></p>
-                <p><a href="https://github.com/moolmeat/project_2_front" target="_blank">[Frontend]</a></p>
-            </div>
-
-            <div class="project">
-                <h3>미정 (진행중)</h3>
-                <p>보드게임 추천 & 커뮤니티 (엘리스트랙 - 10조 팀프로젝트)</p>
-                <p>개발기간: 2024.07.22 - 2024.08.16</p>
-                <p>핵심 역할: 팀장, 회원별 선호하는 장르 수집 및 데이터처리, 하이브리드 필터링을 이용한 장르별 게임 추천, date에 가중치를 둔 실시간 인기순위 기능 개발</p>
-                <p>Language: Java17, JavaScript</p>
-                <p>Skill: Spring Boot, Spring Security, MySQL, React, RestAPI, CSS, AWS, GCP, NginX, Docker</p>
-                <p><a href="https://github.com/moolmeat/project_3_back" target="_blank">[Backend]</a></p>
-                <p><a href="https://github.com/moolmeat/project_3_front" target="_blank">[Frontend]</a></p>
-            </div>
-        </div>
-    </section>
-</body>
-</html>
-
+<h2>👋 Intro</h2>
+<p>안녕하세요. 신입 자바 개발자 우문식입니다. Java기반 백엔드 개발을 하고 있습니다.</p>
+<br><br>
+<h2>📝 Projects</h2>
+<p>엘리스트랙(부트캠프)에서 6개월간 진행했던 프로젝트들 입니다!<br>Spring Boot를 이용한 서버 API 개발과 <br>바닐라js, React를 이용한 간단한 프런트엔드 <br>기획을 포함해 배포까지 진행했습니다.</p>
+<br><br>
+<h3>1. Muse</h3>
+<p>악기 후기 게시판 (엘리트트랙 - 개인프로젝트)</p>
+<ul>
+  <li>개발기간: 2024.04.22-05.03</li>
+  <li>핵심 역할: 팀장, TSP 알고리즘을 활용한 여행추천 알고리즘 작성, React를 사용한 SPA 개발</li>
+  <li>기술 스택: Java17, Spring Boot, MySQL, Thymeleaf, RestAPI, CSS</li>
+</ul>
+<a href="https://github.com/moolmeat/project_1">[Muse 프로젝트]</a>
+<br><br>
+<h3>2. BookPanda</h3>
+<p>도서 쇼핑몰 (엘리스트랙 - 4조 팀프로젝트)</p>
+<ul>
+  <li>개발기간: 2024.05.27-06.21</li>
+  <li>핵심 역할: 발표, JWT 토큰, auth 기능, Google SMTP 메일 인증, GCP 배포</li>
+  <li>기술 스택: Java17, JavaScript, SpringBoot, SpringSecurity, MySQL, <br>Redis, React, RestAPI, CSS, GCP, NginX, Docker</li>
+</ul>
+<a href="https://github.com/moolmeat/project_2_back">[BookPanda 백엔드]</a>
+<a href="https://github.com/moolmeat/project_2_front">[BookPanda 프런트엔드]</a>
+<br><br>
+<h3>3. 미정 (진행중)</h3>
+<p>보드게임 추천 & 커뮤니티 (엘리스트랙 - 10조 팀프로젝트)</p>
+<ul>
+  <li>개발기간: 2022.07.22-08.16</li>
+  <li>핵심 역할: 팀장, 회원별 선호하는 장르 수집 및 데이터 처리, <br>하이브리드 필터링을 이용한 장르별 게임 추천, date에 가중치를 둔 실시간 인기 순위 기능 개발</li>
+  <li>기술 스택: Java17, JavaScript, SpringBoot, SpringSecurity, MySQL, React,<br>RestAPI, CSS, AWS, GCP, NginX, Docker</li>
+</ul>
+<br><br><br><br>
 <h1 align="center">💻 Tech Stack 💻</h1>
 
 <h3 align="center">Backend</h3>
