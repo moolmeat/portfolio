@@ -1,3 +1,59 @@
+📜 우문식 포트폴리오
+우문식(Moonsik Woo) - 포트폴리오
+
+
+👋 Intro
+안녕하세요. 신입 자바 개발자 우문식입니다.
+Java기반 백엔드 개발을 하고 있습니다.
+
+📝Projects
+엘리스트랙(부트캠프)에서 6개월간 진행했던 프로젝트들 입니다!
+Spring Boot를 이용한 서버 API 개발과
+바닐라js, React를 이용한 간단한 프런트엔드
+기획을 포함해 배포까지 진행했습니다.
+
+1. Muse
+악기 후기 게시판 (엘리트트랙 - 개인프로젝트)
+
+개발기간 : 2024.04.22-05.03
+핵심 역할 : 팀장, TSP 알고리즘을 활용한 여행추천 알고리즘 작성, React를 사용한 SPA 개발 
+pull stack
+
+Language : Java17
+Skill : Spring Boot, MySQL, Thymeleaf, RestAPI, CSS
+
+[Backend & Frontend]
+https://github.com/moolmeat/project_1
+
+2. BookPanda
+도서 쇼핑몰 (엘리스트랙 - 4조 팀프로젝트)
+
+개발기간 : 2024.05.27-06.21
+핵심 역할 : 발표, JWT토큰, auth기능, GoogleSMTP 메일 인증, GCP 배포
+Language : Java17, JavaScript
+Skill : SpringBoot, SpringSecurity, MYSQL, Redis, React, RestAPI, CSS,
+ GCP, NginX, Docker
+
+[Backend]
+https://github.com/moolmeat/project_2_back
+[Frontend]
+https://github.com/moolmeat/project_2_front
+
+3. 미정 (진행중)
+보드게임 추천 & 커뮤니티 (엘리스트랙 - 10조 팀프로젝트)
+
+개발기간 : 2022.07.22-08.16
+핵심 역할 : 팀장, 회원별 선호하는 장르 수집 및 데이터처리, 하이브리트 필터링을 이용한 장르별 게임 추천,
+date에 가중치를 둔 실시간 인기순위 기능 개발
+Language : Java17, Javascript
+Skill : SpringBoot, SpringSecurity, MYSQL, React, RestAPI, CSS, AWS,
+ GCP, NginX, Docker
+ 
+[Backend]
+
+[Frontend]
+
+
 <h1 align="center">💻 Tech Stack 💻</h1>
 
 <h3 align="center">Backend</h3>
