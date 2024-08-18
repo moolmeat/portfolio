@@ -34,7 +34,7 @@
 </ul>
 <a href="https://github.com/moolmeat/project_3_back">[BookPanda 백엔드]</a>
 <a href="https://github.com/moolmeat/project_3_front">[BookPanda 프런트엔드]</a>
-<link to="http://kdt-cloud-3-team10-final.elicecoding.com/">[배포]</link>
+<a href="http://kdt-cloud-3-team10-final.elicecoding.com/">[배포]</a>
 <br><br><br><br>
 <h1 align="center">💻 Tech Stack 💻</h1>
 
