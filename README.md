@@ -22,7 +22,7 @@
   <li>핵심 역할: 발표, JWT 토큰, auth 기능, Google SMTP 메일 인증, GCP 배포</li>
   <li>기술 스택: Java17, JavaScript, SpringBoot, SpringSecurity, MySQL, <br>Redis, React, RestAPI, CSS, GCP, NginX, Docker</li>
 </ul>
-<a href="https://github.com/moolmeat/project_2_back">[BookPanda 백엔드]https://github.com/moolmeat/project_2_back</a>
+<a href="https://github.com/moolmeat/project_2_back">[BookPanda 백엔드]https://github.com/moolmeat/project_2_back</a><br>
 <a href="https://github.com/moolmeat/project_2_front">[BookPanda 프런트엔드]https://github.com/moolmeat/project_2_front</a>
 <br><br>
 <h3>3. 세네트 </h3>
@@ -32,9 +32,9 @@
   <li>핵심 역할: 팀장, 회원별 선호하는 장르 수집 및 데이터 처리, <br>하이브리드 필터링을 이용한 장르별 게임 추천, date에 가중치를 둔 실시간 인기 순위 기능 개발</li>
   <li>기술 스택: Java17, JavaScript, SpringBoot, SpringSecurity, MySQL, React,<br>RestAPI, CSS, AWS, GCP, NginX, Docker</li>
 </ul>
-<a href="https://github.com/moolmeat/project_3_back">[BookPanda 백엔드]https://github.com/moolmeat/project_3_back</a>
-<a href="https://github.com/moolmeat/project_3_front">[BookPanda 프런트엔드]https://github.com/moolmeat/project_3_front</a>
-<a href="http://kdt-cloud-3-team10-final.elicecoding.com/">[배포]</a>
+<a href="https://github.com/moolmeat/project_3_back">[BookPanda 백엔드]https://github.com/moolmeat/project_3_back</a><br>
+<a href="https://github.com/moolmeat/project_3_front">[BookPanda 프런트엔드]https://github.com/moolmeat/project_3_front</a><br>
+<a href="http://kdt-cloud-3-team10-final.elicecoding.com/">[배포]http://kdt-cloud-3-team10-final.elicecoding.com/</a>
 <br><br><br><br>
 <h1 align="center">💻 Tech Stack 💻</h1>
 
