@@ -10,7 +10,7 @@
 <p>악기 후기 게시판 (엘리트트랙 - 개인프로젝트)</p>
 <ul>
   <li>개발기간: 2024.04.22-05.03</li>
-  <li>핵심 역할: 팀장, TSP 알고리즘을 활용한 여행추천 알고리즘 작성, React를 사용한 SPA 개발</li>
+  <li>핵심 역할: 악기 종류에 따른 카테고리별 게시판 CRUD, 정렬, 페이징</li>
   <li>기술 스택: Java17, Spring Boot, MySQL, Thymeleaf, RestAPI, CSS</li>
 </ul>
 <a href="https://github.com/moolmeat/project_1">[Muse 프로젝트] : https://github.com/moolmeat/project_1</a>
